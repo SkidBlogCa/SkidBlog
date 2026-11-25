@@ -1,0 +1,1 @@
+This project at its core is local, you will find sections about bands and i encourage anyone to have a listen, but for the most part it is home to the London/Toronto area of Canada and the bands/events that i find and take part in.
