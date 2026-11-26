@@ -123,3 +123,47 @@ body {
 }
 
 
+/* Mobile layout */
+@media screen and (max-width: 600px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        padding: 10px;
+    }
+
+    .site-header {
+        padding: 15px 10px;
+    }
+
+    .site-header h1 {
+        font-size: 28px;
+    }
+
+    .subtitle {
+        font-size: 18px;
+        padding: 10px;
+    }
+
+    .blog-post {
+        padding: 10px;
+    }
+
+    .blog-article {
+        padding: 12px;
+    }
+
+    .blog-content {
+        font-size: 16px;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+
+
