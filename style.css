@@ -84,3 +84,42 @@ body {
     background-color: #8750b5;
 }
 
+
+/* Blog post cards */
+.blog-post {
+    background-color: #261c43;
+    border: 2px solid #8050ad;
+    margin: 20px 0;
+    padding: 15px;
+}
+
+.blog-post h2 {
+    background: linear-gradient(
+        to bottom,
+        #8750b5,
+        #3d205d
+    );
+    color: #f3e1ff;
+    padding: 10px;
+    margin: 0 0 10px;
+}
+
+.post-date {
+    color: #bda1d7;
+    font-size: 14px;
+}
+
+.read-more {
+    display: inline-block;
+    background-color: #60368f;
+    color: #ffffff;
+    padding: 8px 15px;
+    border: 1px solid #a578c8;
+    text-decoration: none;
+}
+
+.read-more:hover {
+    background-color: #8750b5;
+}
+
+
