@@ -26,3 +26,22 @@ body {
     border: 2px solid #8050ad;
     box-sizing: border-box;
 }
+
+/* Decorative headings */
+.subtitle {
+    background: linear-gradient(
+        to bottom,
+        #8750b5,
+        #3d205d
+    );
+
+    border: 2px outset #a578c8;
+    padding: 12px 15px;
+    margin: 15px 0;
+
+    color: #f3e1ff;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 2px 2px 2px #191536;
+}
