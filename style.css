@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 30px 15px;
+    font-family: Arial, sans-serif;
+    color: #ebd0ee;
+
+    /* Checkered background /
+    background-color: #482574;
+    background-image: conic-gradient(
+        #60368f 25%,
+        transparent 25% 50%,
+        #60368f 50% 75%,
+        transparent 75%
+    );
+    background-size: 20px 20px;
+}
+
+/ Central content area */
+.container {
+    max-width: 1000px;
+    min-height: 600px;
+    margin: 0 auto;
+    padding: 25px;
+
+    background-color: #191536;
+    border: 2px solid #8050ad;
+    box-sizing: border-box;
+}
